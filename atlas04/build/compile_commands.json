@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\atlas.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\atlas.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\atlas.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\atlas.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\atlasGen.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\atlasGen.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\atlasGen.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\atlasGen.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\cJSON.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\cJSON.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\cJSON.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\cJSON.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\demo.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\demo.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\demo.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\demo.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\draw.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\draw.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\draw.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\draw.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\init.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\init.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\init.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\init.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\input.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\input.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\input.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\input.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\main.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\main.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\main.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\main.c.obj"
+},
+{
+  "directory": "D:/files/code/atlas/atlas04/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -ID:/files/code/atlas/atlas04/include -Wall -Wempty-body -Werror -Wstrict-prototypes -Werror=maybe-uninitialized -Warray-bounds -g -lefence -o CMakeFiles\\WarOfDungeons.dir\\src\\util.c.obj -c D:\\files\\code\\atlas\\atlas04\\src\\util.c",
+  "file": "D:\\files\\code\\atlas\\atlas04\\src\\util.c",
+  "output": "CMakeFiles\\WarOfDungeons.dir\\src\\util.c.obj"
+}
+]

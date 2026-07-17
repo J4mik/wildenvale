@@ -688,9 +688,14 @@ int renderer()
 		count = 0;
 		submitSprites(context.DeltaTime, w, h, quit, keyMonitor);
 
+		// for (int i = count; i < SPRITE_COUNT; ++i) {
+		// 	delete dataPtr[i];
+		// 	dataPtr[i] = nullptr;
+		// }
+
 		for (unsigned int i = count; i < SPRITE_COUNT; ++i) {
-			dataPtr[count].w = 0;
-			dataPtr[count].h = 0;
+			dataPtr[i].w = 0;
+			dataPtr[i].h = 0;
 		}
 
 		SDL_BindGPUComputePipeline(computePass, ComputePipeline);
